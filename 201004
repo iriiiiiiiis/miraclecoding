@@ -1,0 +1,4 @@
+// 동일한 의미
+let array = new Object()
+let array = {};
+
